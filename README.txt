@@ -3,4 +3,4 @@ This repository contains the example code that was used for the blog-post on
 
 http://rudairandamacha.blogspot.de/2012/11/saddling-horse-with-type-classes-in.html
 
--- 2012/11/11, Alexander Lehmann (afwlehmann)
+-- 2012-11-11, Alexander Lehmann (afwlehmann)
